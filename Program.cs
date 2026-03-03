@@ -21,7 +21,7 @@ Console.WriteLine("Database created successfully!");
 var student1 = new Student
 {
     FirstName = "Hasan",
-    LastName = "Alhaj Ebraheem",
+    LastName = "AOLCC",
     EnrollmentDate = DateTime.Now
 };
 
