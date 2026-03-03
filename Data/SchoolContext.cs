@@ -1,3 +1,6 @@
+// had to search online how to use DbContext
+
+
 using Microsoft.EntityFrameworkCore;
 using StudentDatabase.Models;
 
