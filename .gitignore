@@ -1,0 +1,21 @@
+# Build results
+bin/
+obj/
+*.dll
+*.pdb
+
+# Database files
+*.db
+*.db-shm
+*.db-wal
+
+# Visual Studio / Rider
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+
+# Mac specific
+.DS_Store
+
